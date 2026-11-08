@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<recetas>
+    <id>
+        1
+        <nombre>Pulpo a la gallega</nombre>
+        <ingrediente>Pulpo</ingrediente>
+        <ingrediente>Patata</ingrediente>
+        <tiempo>Dos horas y media</tiempo>
+    </id>
+    <id>
+        2
+        <nombre>Perritos calientes</nombre>
+        <ingrediente>Salchicha</ingrediente>
+        <ingrediente>Pan</ingrediente>
+        <tiempo>35 minutos</tiempo>
+    </id>
+    <id>
+        3
+        <nombre>Caldo de pollo</nombre>
+        <ingrediente>Pollo</ingrediente>
+        <ingrediente>Verduras</ingrediente>
+        <ingrediente>Caldo</ingrediente>
+        <tiempo>1 hora</tiempo>
+    </id>
+    <id>
+        4
+        <nombre>Pepinillos</nombre>
+        <ingrediente>pepino</ingrediente>
+        <ingrediente/>
+        <tiempo>2 minutos</tiempo>
+    </id>
+    <id>
+        4
+        <nombre>Arroz</nombre>
+        <ingrediente>arroz</ingrediente>
+        <tiempo>10 minutos</tiempo>
+    </id>
+</recetas>
